@@ -1,6 +1,6 @@
-### Hi!🔭&nbsp My name's Kirill Bolotov.
+### Hi!🔭 My name's Kirill Bolotov.
 
-![view-counter]("https://komarev.com/ghpvc/?username=murloteg&style=for-the-badge&color=d7bde2" alt=""&label=PROFILE+VIEWS)
+![view-counter](https://komarev.com/ghpvc/?username=murloteg&style=for-the-badge&color=d7bde2&label=PROFILE+VIEWS)
 
 ---
 
