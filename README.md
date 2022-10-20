@@ -2,6 +2,12 @@
 <div id="badges">
 <a href="view-counter">
   <img src="https://komarev.com/ghpvc/?username=murloteg&style=flat-square&color=green" alt=""/>
+</a>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 </div>
 
 <!--
