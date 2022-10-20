@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div id="badges">
+<a href="view-counter">
+  <img src="https://komarev.com/ghpvc/?username=murloteg&style=flat-square&color=green" alt=""/>
+</div>
 
 <!--
 **murloteg/murloteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
