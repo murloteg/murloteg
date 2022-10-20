@@ -1,7 +1,7 @@
-### Hi!🔭
+### Hi! My name's Kirill Bolotov.🔭
 <div id="badges">
 <a href="view-counter">
-  <img src="https://komarev.com/ghpvc/?username=murloteg&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=murloteg&style=for-the-badge&color=yellow" alt=""/>
 </a>
 </div>
 
