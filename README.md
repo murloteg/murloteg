@@ -17,9 +17,10 @@
 ### :page_with_curl: Git statistics :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murloteg&theme=github-dark-blue&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=murloteg&theme=algolia&show_icons=true)](https://github.com/murloteg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=murloteg&theme=algolia&show_icons=true)](https://github.com/murloteg)(https://github.com/anuraghazra/github-readme-stats)
+[![Kirill Bolotov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=murloteg&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/murloteg)
+
 ---
 
 <!--
