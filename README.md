@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=murloteg&theme=algolia&show_icons=true)](https://github.com/murloteg)
 
-[![Kirill Bolotov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=murloteg&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/murloteg)
+[![Kirill Bolotov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=murloteg&theme=algolia&show_icons=true)](https://github.com/murloteg)
 
 ---
 
